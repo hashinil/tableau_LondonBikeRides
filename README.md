@@ -1,4 +1,4 @@
-# London Bike Rides
+# [London Bike Rides](https://public.tableau.com/app/profile/hashini.liyanage/viz/LondonBikeRidesProject_16971086509310/Dashboard1#1)
 Analyze London Bike Ride Patterns: A Tableau Data Analytics Project
 
 ### Project Description:
@@ -42,4 +42,9 @@ In this project, my primary aim was to dissect the dataset, uncover hidden insig
 ### Project Duration:
 ----------------------------------
 ### Project Outcome:
+
+**Tableau Dashboard**: [Click](https://public.tableau.com/app/profile/hashini.liyanage/viz/LondonBikeRidesProject_16971086509310/Dashboard1#1)
+
+![image](https://github.com/hashinil/tableau_LondonBikeRides/assets/33922245/b3beaca2-e6f0-4c2b-bac4-460a02bcc3e4)
+
 ----------------------------------
