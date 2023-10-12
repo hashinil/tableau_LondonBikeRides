@@ -18,29 +18,23 @@ In this project, my primary aim was to dissect the dataset, uncover hidden insig
     - changing the weather column data type to string, mapping the values to the actual written weathers
 
 - [x] Data Analysis and Visualization:
+    - Total number of bike rides: Card
+    - Moving Average Chart: Line Chart
+    - Temp vs Wind Speed: Heat Map
+    - 2 Bar Chart running over tooltips
 
-- [x] Interactive Dashboard:
+----------------------------------
+### Technologies and Tools Used: 
 
-- [x] Key Findings and Insights:
-
-- [x] Business Impact:
-----------------------------------
-### Technologies and Tools Used:
-----------------------------------
-### Challenges and Solutions:
-----------------------------------
-### Conclusion:
-----------------------------------
-### Future Work:
-----------------------------------
-### Acknowledgments:
+- Jupyter Notebook
+- Tableau
+- Python
 ----------------------------------
 ### References:
 - **Kaggle Data Set**: [Click](https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset)
 - **Kaggle API**: [Click](https://www.kaggle.com/docs/api)
 ----------------------------------
-### Project Duration:
-----------------------------------
+
 ### Project Outcome:
 
 **Tableau Dashboard**: [Click](https://public.tableau.com/app/profile/hashini.liyanage/viz/LondonBikeRidesProject_16971086509310/Dashboard1#1)
