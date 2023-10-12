@@ -1,6 +1,9 @@
 # London Bike Rides
+Analyze London Bike Ride Patterns: A Tableau Data Analytics Project
 
 ### Project Description:
+
+In this project, my primary aim was to dissect the dataset, uncover hidden insights, and visualize the statistics and patterns of bike rides in London.
 
 ----------------------------------
 ### Key Components of the Project:
@@ -9,7 +12,10 @@
     - download dataset from kaggle using the Kaggle API
     - extract the file from the downloaded zip file
     - read in the csv file as a pandas dataframe   
-    - 
+    - explore data and assigned meaningfull column headers
+    - changing the humidity values to percentage
+    - changing the seasons column data type to string, mapping the values 0-3 to the actual written seasons
+    - changing the weather column data type to string, mapping the values to the actual written weathers
 
 - [x] Data Analysis and Visualization:
 
