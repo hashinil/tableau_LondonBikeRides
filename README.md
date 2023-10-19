@@ -1,4 +1,10 @@
 # [London Bike Rides](https://public.tableau.com/app/profile/hashini.liyanage/viz/LondonBikeRidesProject_16971086509310/Dashboard1#1)
+
+**Final Dashboard:**
+[Click](https://public.tableau.com/app/profile/hashini.liyanage/viz/LondonBikeRidesProject_16971086509310/Dashboard1#1)
+
+-------------------------------------------------------------
+
 Analyze London Bike Ride Patterns: A Tableau Data Analytics Project
 
 ### Project Description:
